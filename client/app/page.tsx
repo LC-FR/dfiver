@@ -256,9 +256,9 @@ function Footer() {
           <FooterLink href="mailto:souravangral18@gmail.com">Contact</FooterLink> */}
         </nav>
         <div className="flex space-x-4">
-          <SocialIcon href="https://twitter.com/sourxv_me" Icon={TwitterIcon} />
-          <SocialIcon href="https://github.com/soravang81" Icon={GithubIcon} />
-          <SocialIcon href="mailto:souravangral18@gmail.com" Icon={MailIcon} />
+          <SocialIcon href="https://twitter.com/" Icon={TwitterIcon} />
+          <SocialIcon href="https://github.com/LC-FR" Icon={GithubIcon} />
+          <SocialIcon href="mailto:pratyushsharma05@gmail.com" Icon={MailIcon} />
         </div>
       </div>
       <div className="text-center mt-8 text-sm text-foreground">
